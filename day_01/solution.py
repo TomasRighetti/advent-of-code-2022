@@ -11,12 +11,3 @@ with open("elfs_calories.txt", "r") as elfs_calories:
 			elfs[index] = 0
 	
 
-
-
-
-print(elfs)
-
-
-
-elves_calories = []
-
